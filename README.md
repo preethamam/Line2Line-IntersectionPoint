@@ -5,7 +5,7 @@ A fast two line intersection point finder based on the line parametric space. Fi
 
 # Quick Pipeline Visualization
 ## Example: Two lines intersection point
-| X point |
+| Intersection point |
 | ------------- |
 | ![LineXPlot](https://user-images.githubusercontent.com/28588878/153011787-6ada5919-2de5-4289-815e-058d6bf754ec.png) |
 
@@ -13,7 +13,7 @@ A fast two line intersection point finder based on the line parametric space. Fi
 -----
 
 # Requirements
-MATLAB <br />
+MATLAB
 
 -----
 
