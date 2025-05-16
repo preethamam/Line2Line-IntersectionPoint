@@ -1,5 +1,5 @@
 # Line2Line-IntersectionPoint
-[![View Intersection of two lines (a fast parametric method) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/106385-intersection-of-two-lines-a-fast-parametric-method) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/Line2Line-IntersectionPoint) 
+[![View Intersection of two lines (a fast parametric method) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/106385-intersection-of-two-lines-a-fast-parametric-method) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/Intersection-of-Two-Lines)
 
 A fast two line intersection point finder based on the line parametric space. Finds the intersection point between two lines if it exists or else submits NaN.
 
